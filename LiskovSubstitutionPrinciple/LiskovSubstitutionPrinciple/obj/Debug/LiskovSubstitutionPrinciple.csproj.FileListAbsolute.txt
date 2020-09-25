@@ -1,0 +1,10 @@
+C:\Development\dev\SOLID\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\bin\Debug\LiskovSubstitutionPrinciple.exe.config
+C:\Development\dev\SOLID\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\bin\Debug\LiskovSubstitutionPrinciple.exe
+C:\Development\dev\SOLID\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\bin\Debug\LiskovSubstitutionPrinciple.pdb
+C:\Development\dev\SOLID\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\bin\Debug\LSPLibary.dll
+C:\Development\dev\SOLID\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\bin\Debug\LSPLibary.pdb
+C:\Development\dev\SOLID\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\Debug\LiskovSubstitutionPrinciple.csprojAssemblyReference.cache
+C:\Development\dev\SOLID\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\Debug\LiskovSubstitutionPrinciple.csproj.CoreCompileInputs.cache
+C:\Development\dev\SOLID\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\Debug\LiskovSubstitutionPrinciple.csproj.CopyComplete
+C:\Development\dev\SOLID\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\Debug\LiskovSubstitutionPrinciple.exe
+C:\Development\dev\SOLID\LiskovSubstitutionPrinciple\LiskovSubstitutionPrinciple\obj\Debug\LiskovSubstitutionPrinciple.pdb

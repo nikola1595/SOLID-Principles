@@ -1,0 +1,6 @@
+C:\Development\dev\SOLID\DependencyInversionPrinciple\DIPLib\obj\Debug\DIPLib.csprojAssemblyReference.cache
+C:\Development\dev\SOLID\DependencyInversionPrinciple\DIPLib\obj\Debug\DIPLib.csproj.CoreCompileInputs.cache
+C:\Development\dev\SOLID\DependencyInversionPrinciple\DIPLib\bin\Debug\DIPLib.dll
+C:\Development\dev\SOLID\DependencyInversionPrinciple\DIPLib\bin\Debug\DIPLib.pdb
+C:\Development\dev\SOLID\DependencyInversionPrinciple\DIPLib\obj\Debug\DIPLib.dll
+C:\Development\dev\SOLID\DependencyInversionPrinciple\DIPLib\obj\Debug\DIPLib.pdb

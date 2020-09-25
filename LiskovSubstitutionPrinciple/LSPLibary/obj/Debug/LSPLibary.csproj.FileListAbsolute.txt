@@ -1,0 +1,6 @@
+C:\Development\dev\SOLID\LiskovSubstitutionPrinciple\LSPLibary\bin\Debug\LSPLibary.dll
+C:\Development\dev\SOLID\LiskovSubstitutionPrinciple\LSPLibary\bin\Debug\LSPLibary.pdb
+C:\Development\dev\SOLID\LiskovSubstitutionPrinciple\LSPLibary\obj\Debug\LSPLibary.csprojAssemblyReference.cache
+C:\Development\dev\SOLID\LiskovSubstitutionPrinciple\LSPLibary\obj\Debug\LSPLibary.csproj.CoreCompileInputs.cache
+C:\Development\dev\SOLID\LiskovSubstitutionPrinciple\LSPLibary\obj\Debug\LSPLibary.dll
+C:\Development\dev\SOLID\LiskovSubstitutionPrinciple\LSPLibary\obj\Debug\LSPLibary.pdb

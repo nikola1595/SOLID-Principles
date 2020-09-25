@@ -1,0 +1,5 @@
+C:\Development\dev\SOLID\InterfaceSegragationPrinciple\ISPLib\bin\Debug\ISPLib.dll
+C:\Development\dev\SOLID\InterfaceSegragationPrinciple\ISPLib\bin\Debug\ISPLib.pdb
+C:\Development\dev\SOLID\InterfaceSegragationPrinciple\ISPLib\obj\Debug\ISPLib.csproj.CoreCompileInputs.cache
+C:\Development\dev\SOLID\InterfaceSegragationPrinciple\ISPLib\obj\Debug\ISPLib.dll
+C:\Development\dev\SOLID\InterfaceSegragationPrinciple\ISPLib\obj\Debug\ISPLib.pdb

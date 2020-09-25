@@ -1,0 +1,6 @@
+C:\Development\dev\SOLID\OpenClosedPrinciple\OCPLibary\bin\Debug\OCPLibary.dll
+C:\Development\dev\SOLID\OpenClosedPrinciple\OCPLibary\bin\Debug\OCPLibary.pdb
+C:\Development\dev\SOLID\OpenClosedPrinciple\OCPLibary\obj\Debug\OCPLibary.csprojAssemblyReference.cache
+C:\Development\dev\SOLID\OpenClosedPrinciple\OCPLibary\obj\Debug\OCPLibary.csproj.CoreCompileInputs.cache
+C:\Development\dev\SOLID\OpenClosedPrinciple\OCPLibary\obj\Debug\OCPLibary.dll
+C:\Development\dev\SOLID\OpenClosedPrinciple\OCPLibary\obj\Debug\OCPLibary.pdb

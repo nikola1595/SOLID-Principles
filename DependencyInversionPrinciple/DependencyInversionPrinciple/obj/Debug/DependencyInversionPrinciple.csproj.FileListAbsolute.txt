@@ -1,0 +1,10 @@
+C:\Development\dev\SOLID\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\DependencyInversionPrinciple.csprojAssemblyReference.cache
+C:\Development\dev\SOLID\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\DependencyInversionPrinciple.csproj.CoreCompileInputs.cache
+C:\Development\dev\SOLID\DependencyInversionPrinciple\DependencyInversionPrinciple\bin\Debug\DependencyInversionPrinciple.exe.config
+C:\Development\dev\SOLID\DependencyInversionPrinciple\DependencyInversionPrinciple\bin\Debug\DependencyInversionPrinciple.exe
+C:\Development\dev\SOLID\DependencyInversionPrinciple\DependencyInversionPrinciple\bin\Debug\DependencyInversionPrinciple.pdb
+C:\Development\dev\SOLID\DependencyInversionPrinciple\DependencyInversionPrinciple\bin\Debug\DIPLib.dll
+C:\Development\dev\SOLID\DependencyInversionPrinciple\DependencyInversionPrinciple\bin\Debug\DIPLib.pdb
+C:\Development\dev\SOLID\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\DependencyInversionPrinciple.csproj.CopyComplete
+C:\Development\dev\SOLID\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\DependencyInversionPrinciple.exe
+C:\Development\dev\SOLID\DependencyInversionPrinciple\DependencyInversionPrinciple\obj\Debug\DependencyInversionPrinciple.pdb

@@ -1,0 +1,10 @@
+C:\Development\dev\SOLID\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.exe.config
+C:\Development\dev\SOLID\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.exe
+C:\Development\dev\SOLID\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\OpenClosedPrinciple.pdb
+C:\Development\dev\SOLID\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\OCPLibary.dll
+C:\Development\dev\SOLID\OpenClosedPrinciple\OpenClosedPrinciple\bin\Debug\OCPLibary.pdb
+C:\Development\dev\SOLID\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.csprojAssemblyReference.cache
+C:\Development\dev\SOLID\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.csproj.CoreCompileInputs.cache
+C:\Development\dev\SOLID\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.csproj.CopyComplete
+C:\Development\dev\SOLID\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.exe
+C:\Development\dev\SOLID\OpenClosedPrinciple\OpenClosedPrinciple\obj\Debug\OpenClosedPrinciple.pdb

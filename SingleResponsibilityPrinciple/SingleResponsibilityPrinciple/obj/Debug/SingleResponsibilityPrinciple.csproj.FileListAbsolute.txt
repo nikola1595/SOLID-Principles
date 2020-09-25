@@ -1,0 +1,7 @@
+C:\Development\dev\SOLID\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\bin\Debug\SingleResponsibilityPrinciple.exe.config
+C:\Development\dev\SOLID\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\bin\Debug\SingleResponsibilityPrinciple.exe
+C:\Development\dev\SOLID\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\bin\Debug\SingleResponsibilityPrinciple.pdb
+C:\Development\dev\SOLID\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\SingleResponsibilityPrinciple.csprojAssemblyReference.cache
+C:\Development\dev\SOLID\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\SingleResponsibilityPrinciple.csproj.CoreCompileInputs.cache
+C:\Development\dev\SOLID\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\SingleResponsibilityPrinciple.exe
+C:\Development\dev\SOLID\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple\obj\Debug\SingleResponsibilityPrinciple.pdb
